@@ -6,33 +6,18 @@
  * @return {void} Do not return anything, modify nums1 in-place instead.
  */
 var merge = function (nums1, m, nums2, n) {
-  let nums1Slice = nums1.slice(0, m);
-  let nums2Slice = nums2.slice(0, n);
+  let index1 = m - 1;
+  let index2 = n - 1;
+  let mergeIndex = m + n - 1;
 
-  let unsortedMergedArray = nums1Slice.concat(nums2Slice);
-
-  function quickSort(arr) {
-    if (arr.length <= 1) {
-      return arr;
+  while (index2 >= 0) {
+    if (index1 >= 0 && nums1[index1] > nums2[index2]) {
+      nums1[mergeIndex] = nums1[index1];
+      index1--;
+    } else {
+      nums1[mergeIndex] = nums2[index2];
+      index2--;
     }
-
-    const PIVOT = arr[0];
-    let left = [],
-      right = [];
-
-    for (let i = 1; i < arr.length; i++) {
-      if (arr[i] < PIVOT) {
-        left.push(arr[i]);
-      } else {
-        right.push(arr[i]);
-      }
-    }
-
-    return [...quickSort(left), PIVOT, ...quickSort(right)];
-  }
-
-  let sortedArray = quickSort(unsortedMergedArray);
-  for (let i = 0; i < m + n; i++) {
-    nums1[i] = sortedArray[i];
+    mergeIndex--;
   }
 };
