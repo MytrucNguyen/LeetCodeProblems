@@ -1,6 +1,7 @@
 | #  | Title  | Level |  
 |---:|---|---|
 | 1  | <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0001.TwoSum">Two Sum</a> | Easy | 
+| 7  | <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0007.ReverseInteger">Reverse Integer</a> | Medium | 
 | 9  | <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0009.PalindromeNumber">Palindrome Number</a> | Easy | 
 | 45  | <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0045.JumpGameII">Jump Game II</a> | Medium | 
 | 55  | <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0055.JumpGame">Jump Game</a>  | Medium  |  
