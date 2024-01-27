@@ -1,6 +1,6 @@
 | #  | Title  | Level |  Solutions |
 |---:|---|---| --- |
-| 1  | Two Sum | Easy | <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0001.TwoSum">C#</a>
+| 1  | Two Sum | Easy | <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0001.TwoSum">C#</a>, <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/JavaScript/0001.TwoSum">JavaScript</a>
 | 7  | Reverse Integer| Medium | <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0007.ReverseInteger">C#</a>
 | 9  | Palindrome Number | Easy | <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0009.PalindromeNumber">C#</a>
 | 26  | Remove Duplicates from Sorted Array | Easy | <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/JavaScript/0026.RemoveDuplicatesfromSortedArray">JavaScript</a>
