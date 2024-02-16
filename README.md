@@ -12,6 +12,7 @@
 | 88  | Merge Sorted Array | Easy  |   <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0088.MergeSortedArray">C#</a>, <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/JavaScript/0088.MergeSortedArray">JavaScript</a>
 | 121  | Best Time to Buy and Sell Stock | Easy |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/JavaScript/0121.BestTimeToBuyAndSellStock">JavaScript</a>
 | 122  | Best Time to Buy and Sell Stock II | Medium |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/JavaScript/0122.BestTimeToBuyAndSellStockII">JavaScript</a>
+| 125  | Valid Palindrome | Easy |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/TypeScript/0125.ValidPalindrome">TypeScript</a>
 | 169  | Majority Element | Easy |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/JavaScript/0169.MajorityElement">JavaScript</a>
 | 189  | Rotate Array | Medium |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/JavaScript/0189.RotateArray">JavaScript</a>
 | 412  | Fizz Buzz | Easy |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0412.FizzBuzz">C#</a>
