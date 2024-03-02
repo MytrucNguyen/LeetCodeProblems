@@ -9,7 +9,7 @@
 | 55  | Jump Game | Medium  |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0055.JumpGame">C#</a>
 | 58  | Length of Last Word | Easy  |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0058.LengthOfLastWord">C#</a>
 | 80  | Remove Duplicates from Sorted Array II | Easy  |   <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/JavaScript/0080.RemoveDuplicatesFromSortedArrayII">JavaScript</a>
-| 88  | Merge Sorted Array | Easy  |   <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0088.MergeSortedArray">C#</a>, <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/JavaScript/0088.MergeSortedArray">JavaScript</a>
+| 88  | Merge Sorted Array | Easy |   <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0088.MergeSortedArray">C#</a>, <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/JavaScript/0088.MergeSortedArray">JavaScript</a>, <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/TypeScript/0088.MergeSortedArray">TypeScript</a>
 | 121  | Best Time to Buy and Sell Stock | Easy |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/JavaScript/0121.BestTimeToBuyAndSellStock">JavaScript</a>
 | 122  | Best Time to Buy and Sell Stock II | Medium |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/JavaScript/0122.BestTimeToBuyAndSellStockII">JavaScript</a>
 | 125  | Valid Palindrome | Easy |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/TypeScript/0125.ValidPalindrome">TypeScript</a>
