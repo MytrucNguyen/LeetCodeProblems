@@ -16,6 +16,6 @@
 | 169  | Majority Element | Easy |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/JavaScript/0169.MajorityElement">JavaScript</a>
 | 189  | Rotate Array | Medium |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/JavaScript/0189.RotateArray">JavaScript</a>
 | 412  | Fizz Buzz | Easy |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0412.FizzBuzz">C#</a>
-| 1056  | Confusing Number | Easy |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/TypeScript/1056.ConfusingNumber">TypeScript</a>
+| 1056  | Confusing Number | Easy |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/TypeScript/1056.ConfusingNumber">TypeScript</a> | Google |
 | 1768  | Merge Strings Alternately | Easy |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/TypeScript/1768.MergeStringsAlternately">TypeScript</a>
 | 2667  | Create Hello World Function | Easy |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/TypeScript/2667.CreateHelloWorldFunction">TypeScript</a>
