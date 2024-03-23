@@ -4,7 +4,7 @@
 | 7  | Reverse Integer| Medium | <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0007.ReverseInteger">C#</a>
 | 9  | Palindrome Number | Easy | <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0009.PalindromeNumber">C#</a>
 | 26  | Remove Duplicates from Sorted Array | Easy | <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/JavaScript/0026.RemoveDuplicatesfromSortedArray">JavaScript</a>,  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/TypeScript/0026.RemoveDuplicatesFromSortedArray">TypeScript</a> | Amazon, Google |
-| 27  | Remove Element | Easy | <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/JavaScript/0027.RemoveElement">JavaScript</a>
+| 27  | Remove Element | Easy | <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/JavaScript/0027.RemoveElement">JavaScript</a>, <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/TypeScript/0027.RemoveElement">TypeScript</a> | Amazon, Apple, Adobe |
 | 45  | Jump Game II | Medium | <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0045.JumpGameII">C#</a>
 | 55  | Jump Game | Medium  |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0055.JumpGame">C#</a>
 | 58  | Length of Last Word | Easy  |  <a href="https://github.com/MytrucNguyen/LeetCodeProblems/tree/main/C%23/0058.LengthOfLastWord">C#</a>
